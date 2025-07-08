@@ -45,6 +45,6 @@ This project explores patterns in U.S. traffic accidents using a large dataset o
 
 ## 📎 LinkedIn Post
 
-👉 [Check out my project post on LinkedIn](https://www.linkedin.com/in/bhavesh-uchainiya-734651136/)  
+👉 [Check out my project post on LinkedIn]([https://www.linkedin.com/in/bhavesh-uchainiya-734651136/](https://www.linkedin.com/posts/bhavesh-uchainiya-734651136_datascience-dataanalysis-python-activity-7348329897318084612-w6jQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEzB9gB68oVgeCqSHu01XNoWfb_ViJtAeg))  
 Let’s connect and discuss data-driven storytelling!
 ---
